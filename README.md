@@ -2,6 +2,11 @@
 
 Jupyter Viewer Plus 是一个桌面应用程序，用于快速预览和查看 Jupyter Notebook (.ipynb) 文件。通过此应用，您可以直接打开和预览.ipynb文件，无需安装Jupyter或其他依赖项。
 
+
+**CSDN文章里有工具截图，下载前可以先看看工具截图。
+https://blog.csdn.net/lukairui7747/article/details/147283568**
+
+
 ## 特点
 
 - 简单的用户界面
@@ -39,6 +44,7 @@ Jupyter Viewer Plus 是一个桌面应用程序，用于快速预览和查看 Ju
 1. 启动 Jupyter Viewer Plus 应用程序
 2. 将.ipynb文件拖放到应用程序窗口中
 3. 文件将立即在应用程序中显示
+
 
 
 ## 许可证
