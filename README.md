@@ -13,9 +13,9 @@ Jupyter Viewer Plus 是一个桌面应用程序，用于快速预览和查看 Ju
 
 ### 使用安装程序
 
-1. 从 [Releases](https://github.com/lukairui/jupyter-viewer-plus/releases) 页面下载最新版本的安装程序
-2. 运行安装程序，按照提示完成安装
-3. 安装完成后，Jupyter Viewer Plus 将自动注册为.ipynb文件的关联程序
+1. git clone 本项目到本地文件夹，解压里面唯一的zip压缩包
+2. 进入压缩包，第一次双击打开jupyter-viewer-plus.exe运行，第一次运行后，界面上有一个“设为默认打开程序“，确定设置为默认打开程序。Jupyter Viewer Plus 将自动注册为.ipynb文件的关联程序
+3. 完成后，关闭界面。找一个.ipynb文件直接双击打开即可。
 
 
 ## 使用方法
